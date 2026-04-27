@@ -1,0 +1,59 @@
+V22
+1250 CP
+Bezár
+Hepworth
+0 4 Sep
+MP:
+$FFFFFF $000000 $000000 14 Arial
+$dcf3f9 $555555 $AFC9E7 $555555
+0 TP:
+$FFFFFF $555555 $555555 20 Arial
+InstalSystem-Hepworth
+110 LP:
+$555555 $555555 $FFFFFF 14 Arial
+C1 C0 AlignStretch
+
+hep_l.bmp
+50
+A Hepworth aplikációjának installálása
+^Instal-therm 4.5 HCR / heat&energy 4.5\program telepítése vagy eltávolítása
+1.bmp
+InstalTherm\SETUP.exe
+
+^Update manager\program telepítése vagy eltávolítása
+um.bmp
+Update\setup.exe
+
+Instrukció a programhoz\valamint információ a telepítésrõl és az eltávolításról
+INSTRUKC.bmp
+>INSTR
+
+A felhasználó regisztrációja
+register.bmp
+REGISTER\RegSheet.htm
+
+Hepworth cég internetes vitrinje
+internet.bmp
+http://www.hepworth.hu
+
+@INSTR
+Információ a program telepítésérõl és eltávolításáról
+instinst.bmp
+instHTML\Installation.htm
+
+Instrukció a Instal-therm HCR programhoz\HTML formátumban - olvasásra
+insthtml.bmp
+InstalTherm\InstrTHERM\CO.htm
+
+Instrukció a Instal-heat&energy programhoz\HTML formátumban - olvasásra
+insthtml.bmp
+InstalTherm\InstrOZC\OZC.htm
+
+Instrukció a Instal-therm HCR programhoz\PDF formátumban - nyomtatáshoz
+inst_pdf.bmp
+instrPDF\StartPDFfile.exe
+..\AcReader\AcroRd32.exe CO.pdf
+Instrukció a Instal-heat&energy programhoz\PDF formátumban - nyomtatáshoz
+inst_pdf.bmp
+instrPDF\StartPDFfile.exe
+..\AcReader\AcroRd32.exe OZC.pdf
